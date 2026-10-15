@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Left Ventricular Hypertrophy (LVH) Detection System
 project video link:-  (https://drive.google.com/file/d/1WzpJViGlcOEixZPE9SmLdYWEdGVfxgYb/view?usp=drive_link)
 
@@ -648,3 +649,7 @@ cd patient_ecg_data && python demo_usage.py
 
 **Ready to demonstrate a fully functional, production-ready LVH detection system! 🚀**
 
+=======
+# LVH
+Detection of left ventricular Hypertropy 
+>>>>>>> 91c421f30704b84a049de4b322599ca7cf9aeeb6
